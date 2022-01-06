@@ -1,0 +1,19 @@
+{
+    "name": "alec/la-bananita",
+    "description": "Este es un proyecto que reemplazara la landing page actual de la bananita",
+    "type": "project",
+    "license": "s",
+    "autoload": {
+        "psr-4": {
+            "Alec\\LaBananita\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alec Nino",
+            "email": "brahio02@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
